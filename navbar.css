@@ -1,0 +1,20 @@
+nav span {
+    color: #F40469;
+    font-weight: 1000;
+    font-size: 30px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+}
+
+nav button {
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+}

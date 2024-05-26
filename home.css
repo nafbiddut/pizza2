@@ -1,0 +1,26 @@
+.home-picture {
+    position: relative;
+    width: 100%;
+
+}
+
+
+.home-picture form {
+    position: absolute;
+    bottom: 250px;
+    left: 150px;
+    display: flex;
+    background-color: white;
+    width: 450px;
+    height: 40px;
+    border-radius: 20px;
+
+}
+
+.submit {
+    border-radius: 0px 20px 20px 0px;
+    flex-grow: 1;
+    font-weight: 700;
+    background-color: #F40469;
+    color: white;
+}
