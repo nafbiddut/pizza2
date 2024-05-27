@@ -1,0 +1,48 @@
+.promotion {
+    display: flex;
+    align-items: center;
+}
+
+.out {
+    position: relative;
+}
+
+.inside {
+    position: absolute;
+    right: 1270px;
+    bottom: -190px;
+    z-index: 1;
+}
+
+.m-inside {
+    position: absolute;
+    right: 1300px;
+    bottom: -130px;
+}
+
+.about {
+    text-align: center;
+    margin: 40px;
+    width: 500px;
+}
+
+.about h1 {
+    font-size: 50px;
+    font-weight: 100;
+    width: 500px;
+    padding-left: 180px;
+}
+
+.download {
+    background-color: #F40469;
+    font-weight: 700;
+    color: white;
+    height: 50px;
+    border-radius: 30px;
+    width: 200px;
+    border: none;
+}
+
+.about p {
+    align-items: center;
+}
